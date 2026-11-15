@@ -4,8 +4,8 @@ A simple Java console project for the Software Design Patterns final.
 
 ## Team responsibilities
 
-- Participant A: Builder, Strategy, Facade.
-- Participant B: Observer, Decorator, Adapter.
+- Abilmansur: Builder, Strategy, Facade.
+- Miras: Observer, Decorator, Adapter.
 
 ## Current progress
 
